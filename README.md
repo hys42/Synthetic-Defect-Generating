@@ -19,5 +19,5 @@ color bleeding type of defect can be come across in the printing process during 
 For detailed information, you can check our "" article.
 
 Citing
-If you use this interface in scientific context, please cite the following publications:
+If you use this interface in scientific context, please cite the following publication:
 ..............
