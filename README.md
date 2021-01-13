@@ -2,7 +2,7 @@
 
 Synthetic Defect Generating (SDG) interface was developed for created by considering the literature and defects that may occur in the real environment. 
 The user can edit the desired defect type, defect size, and spatial detail. Also, the processed image mask appears just below the image, and it is saved in this way.
-
+![image](https://user-images.githubusercontent.com/13784488/104416358-ba9fa200-5584-11eb-827f-edb6545cde73.png)
 Three main defect types, yarn, stains, and color bleeding, can be added to images processed in SDG application.  While drawing, the user can determine the pixel size and color range through the application. 
 
 The second defect type is stains. As in yarn defect, this defect type can be encountered in the printing process when the ink solidifies, does not fully penetrate the printing surface due to problems arising from the printing material, or leaves a stain. 
