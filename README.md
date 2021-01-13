@@ -16,8 +16,9 @@ Only the black (pixel value 0) areas in the template image, where the defect add
 
 color bleeding type of defect can be come across in the printing process during the settings process of color mixtures or templates. This sort of defect resembles many kinds of defects such as, color fading, ink dispersion, and blurry printing. 
 
-For detailed information, you can check our "" article.
+For detailed information, you can check our "to be added" article.
 
 Citing
 If you use this interface in scientific context, please cite the following publication:
-..............
+
+to be added
